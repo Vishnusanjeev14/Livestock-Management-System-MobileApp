@@ -1,0 +1,5 @@
+module.exports = {
+  MONGODB_URI: 'mongodb+srv://itsvishnusanjeev_db_user:1412200five@cluster0.54bxpyf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
+  JWT_SECRET: 'livestock_management_secret_key_2024',
+  PORT: 5001
+};
